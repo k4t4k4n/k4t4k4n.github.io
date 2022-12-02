@@ -3,4 +3,4 @@
 # Umiejętności:
 - programowanie w C
 - programowanie w C++
-- znajomość $\LaTeX$
+- znajomość $\LaTeX$a
