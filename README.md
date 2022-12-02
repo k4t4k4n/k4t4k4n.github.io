@@ -5,6 +5,6 @@
 - matematyki wyższej
 - C
 - C++
-- $\latex$
+- $\LaTeX$
 # Umiejętności:
 - s
