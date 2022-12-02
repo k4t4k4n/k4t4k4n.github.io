@@ -5,7 +5,7 @@
 - znajomość matematyki wyższej
 - znajomość C
 - znajomość C++
-- znajomość $\LaTeX$
+- znajomość $\LaTeX$ (z jakiegoś powodu kompiluje się w README ale nie na stronie (???))
 # Umiejętności:
 - umiejętność adaptacji
 - umiejętność pisania przejrzystych kodów
